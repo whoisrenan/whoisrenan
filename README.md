@@ -2,16 +2,17 @@
 
 ## Fala, galera! 🤟
 ### Meu nome é Renan. 
-Sejam muito bem vindos ao meu perfil aqui no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### Sejam muito bem vindos ao meu perfil aqui no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Barueri, São Paulo, Brasil.
-- ⚡ Apaixonado por Tecnologia.
-- 🧠 Estudante de Sistemas de Informação na Cruzeiro do Sul.
+- 📌  Sou de Barueri, São Paulo, Brasil.
+- ❤️ Apaixonado por Tecnologia.
+- 💻 Estudante de Sistemas de Informação na Cruzeiro do Sul.
+- 🏦 Atuei como Desenvolvedor Front-End e Analista de Suporte em uma Fintech.
 
 
 ##
 
-#### Tecnologias com as quais atualmente trabalho: 
+#### Tecnologias com as quais trabalho atualmente: 
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -19,7 +20,7 @@ Sejam muito bem vindos ao meu perfil aqui no GitHub. <img src="https://raw.githu
 [<img height="48px" width="48px" alt="Icone BootStrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://developer.mozilla.org/pt-BR/docs/Web/Bootstrap)
 
 
-#### Atualmente estou estudando sobre todas essas tecnologias:
+#### Atualmente estou estudando sobre as seguintes tecnologias:
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
@@ -48,14 +49,10 @@ Sejam muito bem vindos ao meu perfil aqui no GitHub. <img src="https://raw.githu
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whoisrenann/)
 <a href = "mailto:renanlemos1612@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-##
-
-
-Encontre-me no [LinkedIn](https://www.linkedin.com/in/renanleemos/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
 
-#### Estatísticas:
+#### Estatísticas do meu perfil:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisrenan&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=whoisrenan&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=whoisrenan&amp;theme=radical"/>](https://github.com/)
