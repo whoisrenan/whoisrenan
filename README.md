@@ -22,6 +22,7 @@
 
 #### Atualmente estou estudando sobre as seguintes tecnologias:
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
+[<img height="48px" width="48px" alt="Icone Tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com/)
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Vue" src="https://skillicons.dev/icons?i=vuejs"/>](https://vuejs.org/)
