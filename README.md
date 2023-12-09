@@ -69,9 +69,8 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
-<a target="_blank" href="mailto:renanlemos1612@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" align="center"></img></a>
-<a href="https://www.linkedin.com/in/renanleemos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://www.instagram.com/whoisrenann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/renanleemos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoisrenan&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
