@@ -2,7 +2,7 @@
 
 ## Fala, galera! 🤟 
 ### Meu nome é Renan. 
-### Sejam muito bem vindos ao meu perfil aqui no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### Sejam muito bem vindos ao meu perfil. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 📌  Sou de Barueri, São Paulo, Brasil.
 - ❤️ Apaixonado por Tecnologia.
@@ -47,20 +47,26 @@
 
 ##
 
-<h3>Estatísticas</h3>
+<h3>Estatísticas:</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisrenan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="whoisrenan" 
+    bg_color=#808080/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisrenan&show_icons=true&theme=dark&locale=en&layout=compact" alt="whoisrenan" /></p>
+<br>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=whoisrenan&show_icons=true&theme=dark&locale=en" alt="whoisrenan" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoisrenan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="whoisrenan" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisrenan&theme=dark" alt="whoisrenan" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisrenan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="whoisrenan" /></p>
+      
+<hr width="100%" >
+
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/renanleemos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
