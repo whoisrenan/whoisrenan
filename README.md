@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Fala, galera! 🤟 ![](https://komarev.com/ghpvc/?username=whoisrenan&color=006bed)
+## Fala, galera! 🤟 
 ### Meu nome é Renan. 
 ### Sejam muito bem vindos ao meu perfil aqui no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
@@ -12,7 +12,7 @@
 
 ##
 
-#### Tecnologias com as quais trabalho atualmente: 
+### Tecnologias com as quais trabalho atualmente: 
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -20,7 +20,7 @@
 [<img height="48px" width="48px" alt="Icone BootStrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://developer.mozilla.org/pt-BR/docs/Web/Bootstrap)
 
 
-#### Atualmente estou estudando sobre as seguintes tecnologias:
+### Atualmente estou estudando sobre as seguintes tecnologias:
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
 [<img height="48px" width="48px" alt="Icone Tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com/)
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
@@ -33,7 +33,7 @@
 
 ##
 
-#### Ferramentas que utilizo:
+### Ferramentas que utilizo:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
@@ -43,42 +43,28 @@
 [<img height="48px" width="48px" alt="Icone Adobe Ilustrator" src="https://skillicons.dev/icons?i=ai"/>](https://www.adobe.com/br/products/illustrator.html)
 [<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
 
-##
-
-#### Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanleemos/)
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whoisrenann/)
-<a href = "mailto:renanlemos1612@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 
 
 ##
 
-#### Estatísticas do meu perfil:
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=whoisrenan&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisrenan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=whoisrenan&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
-<br />
+<h3>Estatísticas</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoisrenan&show_icons=true&theme=dark&locale=en&layout=compact" alt="whoisrenan" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=whoisrenan&show_icons=true&theme=dark&locale=en" alt="whoisrenan" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisrenan&theme=dark" alt="whoisrenan" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
+<h3 align="left">Entre em contato comigo:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/renanleemos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://www.instagram.com/whoisrenann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+</p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoisrenan&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
